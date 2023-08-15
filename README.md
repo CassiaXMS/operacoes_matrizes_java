@@ -30,3 +30,4 @@ O programa contém 4 operações para realizar com as matrizes são elas:
      5 - SAIR
 
 ## ✨ Resultados
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/resultados.png)
